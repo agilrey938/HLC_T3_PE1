@@ -1,0 +1,42 @@
+.tab{
+    display: none;
+}
+.tab.active{
+    display: block;
+}
+body{
+    font-family: "Klee One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 0%;
+  display: flex
+}
+
+img{
+    border-radius: 10px;
+}
+
+thead{
+    background-color: #1abc9c;
+    color: #f4f4f4;
+}
+
+.menu{
+    background-color: #4476a8;
+    padding: 50px;
+    min-height: 100vh;
+    margin-right: 100px;
+
+}
+
+a{
+    background-color: #3498db;
+    padding: 10%;
+    display: block;
+    border-radius: 10px;
+    color: #f4f4f4;
+}
+
+.Alvaro{
+    background-color: #d3f8f7;
+}
